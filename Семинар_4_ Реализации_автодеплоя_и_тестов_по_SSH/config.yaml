@@ -1,0 +1,16 @@
+folder_in: /home/user2/tst/file
+folder_out: /home/user2/tst/out
+folder_ext: /home/user2/tst/ext
+folder_badarx: /home/user2/tst/badarx
+folder_home: /home/user2/tst/home
+count_file: 10
+size_file: 5M
+name_of_arch: '*.7z'
+
+local_path: /home/user
+remote_path: /home/user2
+host: 0.0.0.0
+user: user
+pass: '1111'
+user2: user2
+pass2: '1qazXSW!'
